@@ -9,7 +9,11 @@
 - I’m currently learning Everything about everything DSA today LLD tomorrow DSA again...
 - I’m looking to collaborate on Nothing I guess ...
 
-Connect with me: You can't
+<hr>
+<h3 align="left">Connect with me:</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/balajikonanki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/balaji-konanki-a1baa476/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lucigg.exe/)//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Luci_Fps_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/512317201575968768/)  
+
 
 <!--
 **balajikonanki/BalajiKonanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
